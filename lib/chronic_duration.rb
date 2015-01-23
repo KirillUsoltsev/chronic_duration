@@ -280,6 +280,12 @@ private
       'yrs'     => 'years',
       'yr'      => 'years',
       'y'       => 'years'
+      # russian
+      'г'       => 'years',
+      'м'       => 'minutes',
+      'мин'     => 'minutes',
+      'ч'       => 'hours',
+      'час'     => 'hours'
     }
   end
 
