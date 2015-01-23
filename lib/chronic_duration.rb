@@ -279,7 +279,7 @@ private
       'year'    => 'years',
       'yrs'     => 'years',
       'yr'      => 'years',
-      'y'       => 'years'
+      'y'       => 'years',
       # russian
       'г'       => 'years',
       'м'       => 'minutes',
